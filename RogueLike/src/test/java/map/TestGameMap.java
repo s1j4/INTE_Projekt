@@ -1,4 +1,4 @@
-package projekt;
+package map;
 
 public class TestGameMap {
 	
