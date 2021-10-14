@@ -13,6 +13,7 @@ public class Player {
 //		this.health = playerClass.getHealth();
 //		this.mana = playerClass.getMana();
 //		this.armor = playerClass.getArmor();
+		// test, eclipse, anton
 	}
 	
 	public void equipArmor(Equipment armorToEquip) {
