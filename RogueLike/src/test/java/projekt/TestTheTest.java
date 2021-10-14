@@ -20,4 +20,11 @@ class TestTheTest {
 		assertEquals(2, Testy.increment(1));
 	}
 
+ 	@Test
+	void testIncrementFail() {
+		assertThrows(IllegalStateException.class, () -> {
+			Testy.increment(1);
+		});
+	}
+
 }
