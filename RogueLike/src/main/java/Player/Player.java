@@ -10,9 +10,9 @@ public class Player {
 	private ArrayList<Equipment> playersEquipment = new ArrayList<>();
 	Player(PlayerClass playerClass) {
 		this.playerClass = playerClass;
-		this.health = playerClass.getHealth();
-		this.mana = playerClass.getMana();
-		this.armor = playerClass.getArmor();
+//		this.health = playerClass.getHealth();
+//		this.mana = playerClass.getMana();
+//		this.armor = playerClass.getArmor();
 	}
 	
 	public void equipArmor(Equipment armorToEquip) {
