@@ -1,5 +1,6 @@
+map\MapTile.class
+map\Testy.class
 Player\Equipment.class
-projekt\Testy.class
+map\GameMap.class
 Player\PlayerClass.class
-projekt\GameMap.class
 Player\Player.class

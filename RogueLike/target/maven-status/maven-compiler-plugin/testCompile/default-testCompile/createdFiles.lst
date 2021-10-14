@@ -1,2 +1,3 @@
-projekt\TestGameMap.class
-projekt\TestTheTest.class
+map\TestGameMap.class
+map\TestMapTile.class
+map\TestTheTest.class
