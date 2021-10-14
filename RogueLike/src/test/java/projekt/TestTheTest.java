@@ -24,7 +24,7 @@ class TestTheTest {
  	@Test
 	void testIncrementFail() {
 		assertThrows(IllegalStateException.class, () -> {
-			Testy.increment(1);
+			Testy.increment(3);
 		});
 	}
 
